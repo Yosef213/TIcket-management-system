@@ -16,7 +16,7 @@ public class DBHandler {
     }
 
     public static Connection getConnection() throws Exception {
-        final String URL = "jdbc:mysql://84.8.111.11:3306/EventSystem";
+        final String URL = "jdbc:mysql://-.-.-.-:----/EventSystem";
         final String USER = "remote_user";
         final String PASS = "Qq11@@EeRr";
 
